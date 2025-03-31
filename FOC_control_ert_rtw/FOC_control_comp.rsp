@@ -1,0 +1,7 @@
+﻿-ID:\DATA\simulink\data
+-ID:\DATA\simulink\data\FOC_control_ert_rtw
+-I"D:\Program Files\MATLAB\R2022b\extern\include"
+-I"D:\Program Files\MATLAB\R2022b\simulink\include"
+-I"D:\Program Files\MATLAB\R2022b\rtw\c\src"
+-I"D:\Program Files\MATLAB\R2022b\rtw\c\src\ext_mode\common"
+-I"D:\Program Files\MATLAB\R2022b\rtw\c\ert"
